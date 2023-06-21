@@ -1,0 +1,9 @@
+sens,terminus,infotrafic,temps,dernierDepart,tempsReel,ligne,arret
+2,Hermeland,True,proche,false,true,"{'numLigne': 'C6', 'typeLigne': 3}",{'codeArret': 'APRE2'}
+1,Chantrerie - Grandes Ecoles,True,2mn,false,true,"{'numLigne': 'C6', 'typeLigne': 3}",{'codeArret': 'APRE1'}
+2,Hermeland,True,8mn,false,true,"{'numLigne': 'C6', 'typeLigne': 3}",{'codeArret': 'APRE2'}
+1,Chantrerie - Grandes Ecoles,True,11mn,false,true,"{'numLigne': 'C6', 'typeLigne': 3}",{'codeArret': 'APRE1'}
+2,Bout des Landes,True,3mn,false,true,"{'numLigne': '59', 'typeLigne': 3}",{'codeArret': 'APRE2'}
+1,Mendès France - Bellevue,False,16mn,false,true,"{'numLigne': '59', 'typeLigne': 3}",{'codeArret': 'APRE1'}
+2,Lycée Appert,False,,false,false,"{'numLigne': '111', 'typeLigne': 3}",{'codeArret': 'APRE2'}
+1,Ambroise Paré,False,44mn,true,true,"{'numLigne': '111', 'typeLigne': 3}",{'codeArret': 'APRE2'}
